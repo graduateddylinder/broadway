@@ -12,3 +12,8 @@ h1 {
   color: white;
   background-image: url(../images/broadway_background.png);
 }
+
+.nav_btn {
+  font-size: 18px;
+  color: white;
+}
